@@ -1,0 +1,26 @@
+# Qwen3-TTS Requirements for FluxOps Creator Studio
+# Uses official qwen-tts package for TTS generation
+
+# Core Qwen3-TTS package
+qwen-tts>=0.1.0
+
+# Core dependencies
+torch>=2.0.0
+torchaudio>=2.0.0
+transformers>=4.36.0
+soundfile>=0.12.0
+numpy>=1.24.0
+
+# Hugging Face Hub for model downloads
+huggingface-hub>=0.20.0
+
+# HTTP server
+flask>=3.0.0
+flask-cors>=4.0.0
+
+# Audio processing
+librosa>=0.10.0
+scipy>=1.11.0
+
+# Optional: Flash Attention for faster inference (GPU only)
+# flash-attn>=2.0.0; sys_platform == 'linux'

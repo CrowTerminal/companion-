@@ -1,0 +1,28 @@
+# TikTok Score Video Analysis Requirements
+# All processing runs locally - no cloud dependencies
+
+# Computer Vision
+opencv-python>=4.8.0
+opencv-python-headless>=4.8.0  # For headless environments
+
+# Audio Analysis
+librosa>=0.10.0
+soundfile>=0.12.0
+
+# Video Scene Detection
+scenedetect>=0.6.0
+
+# Image Quality Assessment
+# BRISQUE implementation
+scikit-image>=0.22.0
+
+# Core
+numpy>=1.24.0
+scipy>=1.11.0
+
+# Face Detection (uses OpenCV's built-in cascades)
+# No additional dependencies needed
+
+# HTTP server (shared with TTS)
+flask>=3.0.0
+flask-cors>=4.0.0
