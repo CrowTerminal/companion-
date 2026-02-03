@@ -3,8 +3,8 @@
 > Free, open-source AI transcription for content creators. Your data never leaves your device.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub release](https://img.shields.io/github/v/release/CrowTerminal/companion)](https://github.com/CrowTerminal/companion/releases)
-[![Downloads](https://img.shields.io/github/downloads/CrowTerminal/companion/total)](https://github.com/CrowTerminal/companion/releases)
+[![GitHub release](https://img.shields.io/github/v/release/CrowTerminal/companion)](https://github.com/CrowTerminal/companion-/releases)
+[![Downloads](https://img.shields.io/github/downloads/CrowTerminal/companion/total)](https://github.com/CrowTerminal/companion-/releases)
 
 ## Features
 
@@ -17,15 +17,15 @@
 ## Download
 
 ### macOS
-- [Download for Mac (Apple Silicon & Intel)](https://github.com/CrowTerminal/companion/releases/latest/download/CrowTerminal-Companion.dmg)
+- [Download for Mac (Apple Silicon & Intel)](https://github.com/CrowTerminal/companion-/releases/latest/download/CrowTerminal-Companion.dmg)
 - Requires macOS 11.0 or later
 
 ### Windows
-- [Download for Windows](https://github.com/CrowTerminal/companion/releases/latest/download/CrowTerminal-Companion-Setup.exe)
+- [Download for Windows](https://github.com/CrowTerminal/companion-/releases/latest/download/CrowTerminal-Companion-Setup.exe)
 - Requires Windows 10 or later
 
 ### Linux
-- [Download AppImage](https://github.com/CrowTerminal/companion/releases/latest/download/CrowTerminal-Companion.AppImage)
+- [Download AppImage](https://github.com/CrowTerminal/companion-/releases/latest/download/CrowTerminal-Companion.AppImage)
 
 Or build from source (see below).
 
@@ -53,7 +53,7 @@ Or build from source (see below).
 
 ```bash
 # Clone the repository
-git clone https://github.com/CrowTerminal/companion.git
+git clone https://github.com/CrowTerminal/companion-.git
 cd companion
 
 # Install dependencies
@@ -129,8 +129,8 @@ npm run lint
 
 ## Support
 
-- [Report a bug](https://github.com/CrowTerminal/companion/issues)
-- [Request a feature](https://github.com/CrowTerminal/companion/issues)
+- [Report a bug](https://github.com/CrowTerminal/companion-/issues)
+- [Request a feature](https://github.com/CrowTerminal/companion-/issues)
 - [Documentation](https://crowterminal.com/docs/companion)
 
 ## License
